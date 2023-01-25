@@ -1,5 +1,5 @@
 <p align="center">
-# Tic-Tac-ToeAndroidApp
+ Tic-Tac-ToeAndroidApp
 </p>
 
 <p align="center">
